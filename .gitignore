@@ -26,3 +26,4 @@ dist
 
 # Python virtual environments
 venv
+.goreleaser-local.yaml
